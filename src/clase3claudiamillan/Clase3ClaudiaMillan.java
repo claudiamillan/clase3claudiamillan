@@ -5,11 +5,15 @@
  */
 package clase3claudiamillan;
 
-/**
- *
+/************************************************************************
+ * Claudia Millan Lopez
  * @author lab12
- */
-public class Clase3ClaudiaMillan {
+ * Fecha: Octubre 26 de 2017
+ * Programa: Clase3Claudia
+ * Responsabilidad: Clase Principal
+ * *********************************************************************/
+ 
+ public class Clase3ClaudiaMillan {
 
     /**
      * @param args the command line arguments
